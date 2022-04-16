@@ -1,4 +1,4 @@
-package com.frn.digitalcurrency.ui.theme
+package com.frn.digitalcurrency.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

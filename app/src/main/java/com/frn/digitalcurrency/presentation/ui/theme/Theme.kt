@@ -1,4 +1,4 @@
-package com.frn.digitalcurrency.ui.theme
+package com.frn.digitalcurrency.presentation.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
